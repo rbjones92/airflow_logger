@@ -2,8 +2,7 @@
 * [General Info](#general-info)
 * [Description](#description)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Execution](#execution)
+* [Program Run](#execution)
 
 ## General Info
 Project to get readable Apache Airflow log information 
