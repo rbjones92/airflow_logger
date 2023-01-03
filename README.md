@@ -18,4 +18,4 @@ We will use a python script to parse logging data from airflow to find total log
 ## Program Run
 Run python script in directory where log files reside 
 
-![Alt text](screenshots/logger_run.PNG?raw=true "log output")
+![Alt text](screenshots/logger_run.png?raw=true "log output")
