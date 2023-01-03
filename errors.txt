@@ -1,0 +1,293 @@
+[2022-11-18 17:43:12,084] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:43:12,130] {standard_task_runner.py:97} ERROR - Failed to execute job 16 for task pull_AAPL (No module named 'yfinance'; 99)
+
+[2022-11-18 17:48:13,832] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:48:13,879] {standard_task_runner.py:97} ERROR - Failed to execute job 19 for task pull_AAPL (No module named 'yfinance'; 286)
+
+[2022-11-18 17:54:48,990] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:54:49,017] {standard_task_runner.py:97} ERROR - Failed to execute job 22 for task pull_AAPL (No module named 'yfinance'; 65)
+
+[2022-11-18 17:57:00,053] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:57:00,076] {standard_task_runner.py:97} ERROR - Failed to execute job 24 for task pull_AAPL (No module named 'yfinance'; 179)
+
+[2022-11-18 18:05:01,703] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:05:01,976] {standard_task_runner.py:97} ERROR - Failed to execute job 29 for task pull_AAPL (No module named 'yfinance'; 90)
+
+[2022-11-18 18:10:03,350] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:10:03,388] {standard_task_runner.py:97} ERROR - Failed to execute job 35 for task pull_AAPL (No module named 'yfinance'; 142)
+
+[2022-11-18 18:09:16,773] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:09:16,825] {standard_task_runner.py:97} ERROR - Failed to execute job 34 for task pull_AAPL (No module named 'yfinance'; 105)
+
+[2022-11-18 18:14:18,290] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:14:18,340] {standard_task_runner.py:97} ERROR - Failed to execute job 37 for task pull_AAPL (No module named 'yfinance'; 328)
+
+[2022-11-18 18:19:21,617] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:19:21,673] {standard_task_runner.py:97} ERROR - Failed to execute job 38 for task pull_AAPL (No module named 'yfinance'; 555)
+
+[2022-11-23 19:23:24,738] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:23:24,763] {standard_task_runner.py:97} ERROR - Failed to execute job 66 for task pull_AAPL (No module named 'yfinance'; 166)
+
+[2022-11-23 19:28:26,040] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:28:26,062] {standard_task_runner.py:97} ERROR - Failed to execute job 67 for task pull_AAPL (No module named 'yfinance'; 444)
+
+[2022-11-23 19:33:27,412] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:33:27,435] {standard_task_runner.py:97} ERROR - Failed to execute job 72 for task pull_AAPL (No module named 'yfinance'; 179)
+
+[2022-11-23 19:31:24,224] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:31:24,245] {standard_task_runner.py:97} ERROR - Failed to execute job 71 for task pull_AAPL (No module named 'yfinance'; 77)
+
+[2022-11-23 19:36:25,277] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:36:25,307] {standard_task_runner.py:97} ERROR - Failed to execute job 73 for task pull_AAPL (No module named 'yfinance'; 348)
+
+[2022-11-23 19:42:12,365] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:42:12,407] {standard_task_runner.py:97} ERROR - Failed to execute job 80 for task pull_AAPL (No module named 'yfinance'; 65)
+
+[2022-11-23 19:38:33,031] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:38:33,064] {standard_task_runner.py:97} ERROR - Failed to execute job 77 for task pull_AAPL (No module named 'yfinance'; 85)
+
+[2022-11-23 19:43:33,727] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:43:33,749] {standard_task_runner.py:97} ERROR - Failed to execute job 83 for task pull_AAPL (No module named 'yfinance'; 135)
+
+[2022-11-23 19:48:42,364] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:48:42,467] {standard_task_runner.py:97} ERROR - Failed to execute job 86 for task pull_AAPL (No module named 'yfinance'; 81)
+
+[2022-11-23 19:42:42,326] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:42:42,359] {standard_task_runner.py:97} ERROR - Failed to execute job 82 for task pull_AAPL (No module named 'yfinance'; 88)
+
+[2022-11-23 19:48:42,781] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:48:42,880] {standard_task_runner.py:97} ERROR - Failed to execute job 87 for task pull_AAPL (No module named 'yfinance'; 82)
+
+[2022-11-23 19:53:43,862] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:53:43,903] {standard_task_runner.py:97} ERROR - Failed to execute job 90 for task pull_AAPL (No module named 'yfinance'; 334)
+
+[2022-11-23 19:49:07,833] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:49:07,919] {standard_task_runner.py:97} ERROR - Failed to execute job 89 for task pull_AAPL (No module named 'yfinance'; 108)
+
+[2022-11-23 19:54:08,860] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:54:08,887] {standard_task_runner.py:97} ERROR - Failed to execute job 91 for task pull_AAPL (No module named 'yfinance'; 364)
+
+[2022-11-23 19:59:50,260] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:59:50,333] {standard_task_runner.py:97} ERROR - Failed to execute job 98 for task pull_AAPL (No module named 'yfinance'; 66)
+
+[2022-11-23 19:56:50,589] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 19:56:50,642] {standard_task_runner.py:97} ERROR - Failed to execute job 95 for task pull_AAPL (No module named 'yfinance'; 96)
+
+[2022-11-23 20:01:51,709] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 20:01:51,733] {standard_task_runner.py:97} ERROR - Failed to execute job 101 for task pull_AAPL (No module named 'yfinance'; 83)
+
+[2022-11-23 20:06:52,362] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 20:06:52,386] {standard_task_runner.py:97} ERROR - Failed to execute job 104 for task pull_AAPL (No module named 'yfinance'; 316)
+
+[2022-11-23 20:02:09,525] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 20:02:09,554] {standard_task_runner.py:97} ERROR - Failed to execute job 103 for task pull_AAPL (No module named 'yfinance'; 114)
+
+[2022-11-23 20:07:10,396] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 20:07:10,425] {standard_task_runner.py:97} ERROR - Failed to execute job 105 for task pull_AAPL (No module named 'yfinance'; 337)
+
+[2022-11-23 20:12:11,549] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 20:12:11,574] {standard_task_runner.py:97} ERROR - Failed to execute job 106 for task pull_AAPL (No module named 'yfinance'; 564)
+
+[2022-11-18 17:36:12,466] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:36:12,500] {standard_task_runner.py:97} ERROR - Failed to execute job 7 for task pull_AAPL (No module named 'yfinance'; 99)
+
+[2022-11-18 17:42:48,132] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:42:48,315] {standard_task_runner.py:97} ERROR - Failed to execute job 14 for task pull_AAPL (No module named 'yfinance'; 83)
+
+[2022-11-18 17:47:52,150] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:47:52,399] {standard_task_runner.py:97} ERROR - Failed to execute job 17 for task pull_AAPL (No module named 'yfinance'; 274)
+
+[2022-11-18 17:36:12,465] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:36:12,499] {standard_task_runner.py:97} ERROR - Failed to execute job 8 for task pull_AAPL (No module named 'yfinance'; 100)
+
+[2022-11-18 17:42:48,085] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:42:48,259] {standard_task_runner.py:97} ERROR - Failed to execute job 13 for task pull_AAPL (No module named 'yfinance'; 81)
+
+[2022-11-18 17:47:52,172] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 17:47:52,349] {standard_task_runner.py:97} ERROR - Failed to execute job 18 for task pull_AAPL (No module named 'yfinance'; 275)
+
+[2022-11-18 18:00:02,547] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:00:02,577] {standard_task_runner.py:97} ERROR - Failed to execute job 26 for task pull_AAPL (No module named 'yfinance'; 345)
+
+[2022-11-18 18:05:13,277] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:05:13,582] {standard_task_runner.py:97} ERROR - Failed to execute job 30 for task pull_AAPL (No module named 'yfinance'; 102)
+
+[2022-11-18 18:10:15,241] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-18 18:10:15,274] {standard_task_runner.py:97} ERROR - Failed to execute job 36 for task pull_AAPL (No module named 'yfinance'; 153)
+
+[2022-11-23 18:28:06,754] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:28:06,777] {standard_task_runner.py:97} ERROR - Failed to execute job 46 for task pull_AAPL (No module named 'yfinance'; 80)
+
+[2022-11-23 18:33:07,972] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:33:07,998] {standard_task_runner.py:97} ERROR - Failed to execute job 48 for task pull_AAPL (No module named 'yfinance'; 343)
+
+[2022-11-23 18:41:33,566] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:41:33,614] {standard_task_runner.py:97} ERROR - Failed to execute job 52 for task pull_AAPL (No module named 'yfinance'; 69)
+
+[2022-11-23 18:28:06,752] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:28:06,774] {standard_task_runner.py:97} ERROR - Failed to execute job 44 for task pull_AAPL (No module named 'yfinance'; 79)
+
+[2022-11-23 18:33:07,965] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:33:07,992] {standard_task_runner.py:97} ERROR - Failed to execute job 47 for task pull_AAPL (No module named 'yfinance'; 344)
+
+[2022-11-23 18:41:33,597] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:41:33,641] {standard_task_runner.py:97} ERROR - Failed to execute job 53 for task pull_AAPL (No module named 'yfinance'; 70)
+
+[2022-11-23 18:28:06,756] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:28:06,778] {standard_task_runner.py:97} ERROR - Failed to execute job 45 for task pull_AAPL (No module named 'yfinance'; 78)
+
+[2022-11-23 18:33:07,982] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:33:08,008] {standard_task_runner.py:97} ERROR - Failed to execute job 49 for task pull_AAPL (No module named 'yfinance'; 345)
+
+[2022-11-23 18:41:33,593] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-11-23 18:41:33,637] {standard_task_runner.py:97} ERROR - Failed to execute job 54 for task pull_AAPL (No module named 'yfinance'; 71)
+
+[2022-12-01 17:30:47,949] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:30:48,033] {standard_task_runner.py:97} ERROR - Failed to execute job 113 for task pull_AAPL (No module named 'yfinance'; 13365)
+
+[2022-12-01 17:35:49,464] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:35:49,498] {standard_task_runner.py:97} ERROR - Failed to execute job 120 for task pull_AAPL (No module named 'yfinance'; 13606)
+
+[2022-12-01 17:40:51,275] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:40:51,303] {standard_task_runner.py:97} ERROR - Failed to execute job 123 for task pull_AAPL (No module named 'yfinance'; 13830)
+
+[2022-12-01 17:30:45,292] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:30:45,757] {standard_task_runner.py:97} ERROR - Failed to execute job 112 for task pull_AAPL (No module named 'yfinance'; 13353)
+
+[2022-12-01 17:35:46,807] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:35:46,833] {standard_task_runner.py:97} ERROR - Failed to execute job 117 for task pull_AAPL (No module named 'yfinance'; 13589)
+
+[2022-12-01 17:40:48,564] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:40:48,595] {standard_task_runner.py:97} ERROR - Failed to execute job 122 for task pull_AAPL (No module named 'yfinance'; 13825)
+
+[2022-12-01 17:30:48,015] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:30:48,114] {standard_task_runner.py:97} ERROR - Failed to execute job 115 for task pull_AAPL (No module named 'yfinance'; 13366)
+
+[2022-12-01 17:35:49,457] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:35:49,485] {standard_task_runner.py:97} ERROR - Failed to execute job 118 for task pull_AAPL (No module named 'yfinance'; 13604)
+
+[2022-12-01 17:40:51,284] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:40:51,313] {standard_task_runner.py:97} ERROR - Failed to execute job 124 for task pull_AAPL (No module named 'yfinance'; 13831)
+
+[2022-12-01 17:30:47,718] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:30:47,892] {standard_task_runner.py:97} ERROR - Failed to execute job 114 for task pull_AAPL (No module named 'yfinance'; 13364)
+
+[2022-12-01 17:35:49,464] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:35:49,495] {standard_task_runner.py:97} ERROR - Failed to execute job 119 for task pull_AAPL (No module named 'yfinance'; 13605)
+
+[2022-12-01 17:40:51,296] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:40:51,323] {standard_task_runner.py:97} ERROR - Failed to execute job 125 for task pull_AAPL (No module named 'yfinance'; 13832)
+
+[2022-12-01 17:30:48,484] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:30:48,562] {standard_task_runner.py:97} ERROR - Failed to execute job 116 for task pull_AAPL (No module named 'yfinance'; 13367)
+
+[2022-12-01 17:35:49,467] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:35:49,501] {standard_task_runner.py:97} ERROR - Failed to execute job 121 for task pull_AAPL (No module named 'yfinance'; 13607)
+
+[2022-12-01 17:40:51,289] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 17:40:51,317] {standard_task_runner.py:97} ERROR - Failed to execute job 126 for task pull_AAPL (No module named 'yfinance'; 13833)
+
+[2022-12-01 18:00:02,261] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 18:00:02,288] {standard_task_runner.py:97} ERROR - Failed to execute job 128 for task pull_AAPL (No module named 'yfinance'; 14713)
+
+[2022-12-01 18:05:03,853] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 18:05:03,881] {standard_task_runner.py:97} ERROR - Failed to execute job 129 for task pull_AAPL (No module named 'yfinance'; 14940)
+
+[2022-12-01 18:10:05,347] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-01 18:10:05,370] {standard_task_runner.py:97} ERROR - Failed to execute job 130 for task pull_AAPL (No module named 'yfinance'; 15167)
+
+[2022-12-02 18:00:02,063] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-02 18:00:02,101] {standard_task_runner.py:97} ERROR - Failed to execute job 132 for task pull_AAPL (No module named 'yfinance'; 15971)
+
+[2022-12-02 18:05:02,634] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-02 18:05:02,653] {standard_task_runner.py:97} ERROR - Failed to execute job 133 for task pull_AAPL (No module named 'yfinance'; 16198)
+
+[2022-12-02 18:10:04,198] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-02 18:10:04,219] {standard_task_runner.py:97} ERROR - Failed to execute job 134 for task pull_AAPL (No module named 'yfinance'; 16434)
+
+[2022-12-06 16:04:20,679] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-06 16:04:20,746] {standard_task_runner.py:97} ERROR - Failed to execute job 136 for task pull_AAPL (No module named 'yfinance'; 9998)
+
+[2022-12-06 16:09:22,391] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-06 16:09:22,424] {standard_task_runner.py:97} ERROR - Failed to execute job 137 for task pull_AAPL (No module named 'yfinance'; 10228)
+
+[2022-12-06 16:14:23,456] {taskinstance.py:1889} ERROR - Task failed with exception
+
+[2022-12-06 16:14:23,482] {standard_task_runner.py:97} ERROR - Failed to execute job 138 for task pull_AAPL (No module named 'yfinance'; 10458)
+
+[2022-12-01 17:30:27,630] {manager.py:1076} ERROR - Processor for /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_dag_decorator.py with PID 1600 started at 2022-11-24T01:00:52.512722+00:00 has timed out, killing it.
+
+[2022-12-06 16:04:04,644] {manager.py:1076} ERROR - Processor for /opt/airflow/dags/test_dag.py with PID 12108 started at 2022-12-03T03:50:41.730317+00:00 has timed out, killing it.
+
+[2022-12-06 16:04:04,663] {manager.py:1076} ERROR - Processor for /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_passing_params_via_test_command.py with PID 12109 started at 2022-12-03T03:50:41.792351+00:00 has timed out, killing it.
